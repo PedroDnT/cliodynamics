@@ -19,8 +19,8 @@ about the 21st century so far). That's where we are. However, its been a little 
 civil war was going to happen but then COVID came and united everyone(that sounds so crazy). However, when looking beyond a civil war and its underlying
 characteristics, one thing that appeared in common was the mass polarization. So, maybe the civil war was a digital warfare campaign on social media(who knows
 how wars are fought these days). Anyway, based of this seemingly stable cycle, we can infer that we are where America was at the start of the 1870s. That means
-we are in the Gilded Age, an era of industrialization, isolationism, and reduced military spending(and hopefully a budget surplus this time). If I were to tell 
-you more about what else I think is going to happen, I would say that quality of life would say that there would be some mild anti-immigration laws that don't 
+we are in the Gilded Age, an era of industrialization, isolationism, and reduced military spending(and hopefully a budget surplus this time) is coming. If I were to
+tell you more about what else I think is going to happen, I would say that quality of life would say that there would be some mild anti-immigration laws that don't 
 keep too many foreigners out, but they're also not too liberal with immigration. Also, I would say that a new form of economic organization would come through.
 It could be more of an online economy, or maybe it could be a new revitalization of American industry. Now, I am sure that some of you are looking for the 
 "prophet of doom" predictions(to be real though, no prophet of doom really writes paragraphs on his programming work). One prediction that might spell "doom"
