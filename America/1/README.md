@@ -37,6 +37,9 @@ gets harder to keep our modern economy going. Like one railroad company started 
 of this strong, like how America's navy came out of the 1890s as a rising star, eventually giving the Spanish a beating on Cuba and the Philippines(we do the same
 to China maybe?).</p>
 
+<a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">
+Last Time's Prediction(Turned into Alternate History)</a>
+
 <h5 align="center">Sources</h5>
 
 <a href="https://www.cdc.gov/nchs/data/statab/natfinal2003.annvol1_01.pdf">Birth Rate from 1909 to 1970</a>
