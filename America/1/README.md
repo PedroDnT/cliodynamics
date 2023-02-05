@@ -33,7 +33,7 @@ that is also because the economy is so messed up that the only thing keeping it 
 Boomers are a large generation, and as they retire, the smaller "saver" generation may not collectively save as much money as the Boomers did in order to 
 keep the economy afloat. Who knows, we might see the "Panic of 2025" The economy is a place with investment abound, but without the money to support them, it
 gets harder to keep our modern economy going. Like one railroad company started the Panic in 1873, a large tech company(maybe Apple?) could start the "Panic of
-2025". Or maybe we are in the Panic of 1873 right now(it lasted for around 20 years by the way). But whatever we will face, I can tell you that we will come out
+2025". Or maybe we are in the Panic of 1873 right now(it lasted for around 6 years in US by the way). But whatever we will face, I can tell you that we will come out
 of this strong, like how America's navy came out of the 1890s as a rising star, eventually giving the Spanish a beating on Cuba and the Philippines(we do the same
 to China maybe?).</p>
 
