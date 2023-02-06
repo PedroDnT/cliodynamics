@@ -22,7 +22,9 @@ points). Anyway, decision trees create partitions in data that follow a certain 
 but it is good enough to get a basic enough idea. With decision trees, entropy, or the variance of the data set as the result of a partition, looks at
 the variance and tries to minimize itself(again, oversimplified). The partition that has the least entropy is made by the decision tree. The partitions
 will keep on happening until the entropy is zero. However, as I put a limit on the variable max_depth, it can't do that. The problem with letting entropy 
-fall to zero is that it leads to overfitting: it fits the training data so well that it can't be used to analyze other datasets.</p>
+fall to zero is that it leads to overfitting: it fits the training data so well that it can't be used to analyze other datasets. Anyway, I should stop
+rambling about decision trees so that you can read about the data and the projection(you might call me a prophet of doom after you read, so read with
+caution).</p>
 
 <h3 align="center">Original Data</h3>
 
