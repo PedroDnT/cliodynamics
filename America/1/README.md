@@ -6,13 +6,24 @@
   
 <h5 align="center">What is it?</h5>
   
-<p>The Random Forest Model is a machine learning model that is a type of ensemble model(in ensemble models, machine learning models are combined to make a stronger
-model). The Random Forest Model combines many decision trees for an accurate prediction. I will get into decision trees, but first, I want to talk about
-overfitting. Random Forest Models are prone to overfitting, which is why there is a number for max_depth, as it will prevent overfitting. Overfitting basically 
-means that a model does well with the training data, however, because it does so well to the training data, it is unable to adjust to more real world
+<p>The Random Forest Model is a machine learning model that is a type of ensemble model(in ensemble models, machine learning models are combined to make a
+stronger model). The Random Forest Model combines many decision trees for an accurate prediction. I will get into decision trees, but first, I want to talk
+about overfitting. Random Forest Models are prone to overfitting, which is why there is a number for max_depth, as it will prevent overfitting. Overfitting
+basically means that a model does well with the training data, however, because it does so well to the training data, it is unable to adjust to more real world
 data. This is why I am limiting max_depth, as limiting max depth allows for a limit on complexity, and by extension, overfittng. Below, I will have a detailed
 description of Decision Trees.</p>
   
+<h5 align="center">What are Decision Trees and how do they work?</h5> 
+
+<p>Decision trees are a type of AI/Machine Learning algorithm that aims to learn how the data works by creating partitions. Decision trees are a popular
+alternative to Neural Networks and Deep Learning, which are heavily used by colleges and the private sector(I won't complain, as they can take the
+computational burden of a Neural Network, as they take up lots of computation power; they are essentially useless unless you have more than 100,000 data
+points). Anyway, decision trees create partitions in data that follow a certain pattern: when x is greater than 5, y does this. It isn't that simple,
+but it is good enough to get a basic enough idea. With decision trees, entropy, or the variance of the data set as the result of a partition, looks at
+the variance and tries to minimize itself(again, oversimplified). The partition that has the least entropy is made by the decision tree. The partitions
+will keep on happening until the entropy is zero. However, as I put a limit on the variable max_depth, it can't do that. The problem with letting entropy 
+fall to zero is that it leads to overfitting: it fits the training data so well that it can't be used to analyze other datasets.</p>
+
 <h3 align="center">Original Data</h3>
 
 <p>Below is the graph of the collected data(growth rates are not included) for you to see.</p>
