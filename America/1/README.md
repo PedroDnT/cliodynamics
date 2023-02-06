@@ -84,7 +84,7 @@ road for World War 1(seriously, the Scramble for Africa was what delayed WW1 whe
 reactions to the Long Depression). Considering what I said in the immigration section, and also how America isn't dependent on other countries for
 its primary needs, America could become protectionist in the future, and maybe fight in WW3(probably not though, as there aren't the young
 populations to do so anyway from around the world). However for now, just know that tariffs could be coming if what I said in the immigration section
-turns out to be true.</p>
+turns out to be true(the fall of free trade happens when there appears to be a threat in the stability of the world).</p>
 
 <h5 align="center">Sources</h5>
 
