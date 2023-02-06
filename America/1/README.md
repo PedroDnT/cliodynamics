@@ -1,6 +1,18 @@
 <html>
 <body>
 <h1 align="center">At least the decline in quality of life is there...</h1>
+  
+<h3 align="center">Random Forest Model</h3>
+  
+<h5 align="center">What is it?</h5>
+  
+<p>The Random Forest Model is a machine learning model that is a type of ensemble model(in ensemble models, machine learning models are combined to make a stronger
+model). The Random Forest Model combines many decision trees for an accurate prediction. I will get into decision trees, but first, I want to talk about
+overfitting. Random Forest Models are prone to overfitting, which is why there is a number for max_depth, as it will prevent overfitting. Overfitting basically 
+means that a model does well with the training data, however, because it does so well to the training data, it is unable to adjust to more real world
+data. This is why I am limiting max_depth, as limiting max depth allows for a limit on complexity, and by extension, overfittng. Below, I will have a detailed
+description of Decision Trees.</p>
+  
 <h3 align="center">Original Data</h3>
 
 <p>Below is the graph of the collected data(growth rates are not included) for you to see.</p>
@@ -46,7 +58,7 @@ Last Time's Prediction(Turned into Alternate History)</a>
 
 <a href="https://www.statista.com/statistics/195943/birth-rate-in-the-united-states-since-1990/">Birth Rate from 1990</a>
 
-<a href="https://www.statista.com/statistics/269967/urbanization-in-the-united-states/">Urbanization in America from 1790</a>
+<a href="https://www.statista.com/statistics/269967/urbanization-in-the-united-states/">Urbanization in America in 1970</a>
 
 <a href="https://www.macrotrends.net/countries/USA/united-states/tariff-rates">Tariff rate from 1990</a>
 
