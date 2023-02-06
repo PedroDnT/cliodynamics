@@ -18,7 +18,9 @@ description of Decision Trees.</p>
 <p>Decision trees are a type of AI/Machine Learning algorithm that aims to learn how the data works by creating partitions. Decision trees are a popular
 alternative to Neural Networks and Deep Learning, which are heavily used by colleges and the private sector(I won't complain, as they can take the
 computational burden of a Neural Network, as they take up lots of computation power; they are essentially useless unless you have more than 100,000 data
-points). Anyway, decision trees create partitions in data that follow a certain pattern: when x is greater than 5, y does this. It isn't that simple,
+points). This is the reason I chose Decision Trees, as they are essentially the knock-off "Neural Networks" that can accomplish similar feats without
+putting a huge burden on the computer and is fairly accurate with the amount of data I have(a neural network will just be wrong, unless I have more data).
+Anyway, decision trees create partitions in data that follow a certain pattern: when x is greater than 5, y does this. It isn't that simple,
 but it is good enough to get a basic enough idea. With decision trees, entropy, or the variance of the data set as the result of a partition, looks at
 the variance and tries to minimize itself(again, oversimplified). The partition that has the least entropy is made by the decision tree. The partitions
 will keep on happening until the entropy is zero. However, as I put a limit on the variable max_depth, it can't do that. The problem with letting entropy 
