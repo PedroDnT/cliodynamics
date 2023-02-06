@@ -69,7 +69,7 @@ Last Time's Prediction(Turned into Alternate History)</a>
 
 <h5 align="center">Tariffs</h5>
 
-<p>Tariffs, at least in our modern world(as of February 6, 2023), looks down on tariffs. Everyone from the teachers in school, to the mainstream economists,
+<p>Tariffs, at least in our modern world(as of February 6, 2023), are looked down. Everyone from the teachers in school, to the mainstream economists,
 will tell you that tariffs are bad for the economy(to be clear, I am not going to say they are all wrong). However, could this belief in free trade 
 diminish soon. As you can see, America has had high tariffs for most of its history, and when looking at historical tariffs, one could laugh at Trump's
 tariff(they weren't that high when you consider the historical precedent). In case you're wondering, I did say tariffs are good for the economy in the 
