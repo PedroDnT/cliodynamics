@@ -28,7 +28,7 @@ fall to zero is that it leads to overfitting: it fits the training data so well 
 rambling about decision trees so that you can read about the data and the projection(you might call me a prophet of doom after you read, so read with
 caution).</p>
 
-<h3 align="center">Original Data</h3>
+<h3 align="center">Original Data and Projection</h3>
 
 <p>Below is the graph of the collected data(growth rates are not included) for you to see.</p>
 
@@ -66,6 +66,25 @@ to China maybe?).</p>
 
 <a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">
 Last Time's Prediction(Turned into Alternate History)</a>
+
+<h5 align="center">Tariffs</h5>
+
+<p>Tariffs, at least in our modern world(as of February 6, 2023), looks down on tariffs. Everyone from the teachers in school, to the mainstream economists,
+will tell you that tariffs are bad for the economy(to be clear, I am not going to say they are all wrong). However, could this belief in free trade 
+diminish soon. As you can see, America has had high tariffs for most of its history, and when looking at historical tariffs, one could laugh at Trump's
+tariff(they weren't that high when you consider the historical precedent). In case you're wondering, I did say tariffs are good for the economy in the 
+short term, but you can't just just place tariffs the way you want. For example, tariffs in the 1880s was one factor that allowed for an increase in worker
+benefits in the German Empire. Also, there is a difference in a country like America versus a country like Monaco when placing tariffs due to producing
+power. Also, the Smoot Hawley Tariff went badly because now, there was absolutely no way that the US could trade with anyone. Tariffs were okay in the
+1800s as the US wasn't that much of a major economy, however, as the US is more integrated and a larger player, the US can't go full on protectionist.
+Also, when looking at the graph, you can see tariffs as reactions to something that was going on in society. For example, the 1920s and 30s saw increases
+in tariffs to make sure a recession doesn't come. It did kick the can down the road, but the Great Depression was so bad that tariffs couldn't do anything
+anymore. High tariffs was a characteristic of the reconstruction. DUring the Long Depression, the rise of protectionism helped to kick the can down the
+road for World War 1(seriously, the Scramble for Africa was what delayed WW1 when comnined with the short term rise in living standards,and these were
+reactions to the Long Depression). Considering what I said in the immigration section, and also how America isn't dependent on other countries for
+its primary needs, America could become protectionist in the future, and maybe fight in WW3(probably not though, as there aren't the young
+populations to do so anyway from around the world). However for now, just know that tariffs could be coming if what I said in the immigration section
+turns out to be true.</p>
 
 <h5 align="center">Sources</h5>
 
