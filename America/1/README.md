@@ -92,14 +92,19 @@ turns out to be true(the fall of free trade happens when there appears to be a t
 <p>I have stated that birth rates are an indication of quality of life. However, observing the trend better, I can see that birth rates constantly decline 
 except only during the "good times"(1820s&1950s/60s in this model). So, for subsequent trials, I am thinking of using a trick called detrending, which is 
 where one takes the trend line of data points, and now, the dependent variable is a resudual plot of the original function. This will better account for the
-trend, as you are taking the trend out of the picture, which can mess up a long term vision of the data.</p>
+trend, as you are taking the trend out of the picture, which can mess up a long term vision of the data. The model predicted that the birth rate would be around
+30 for 1000 women versus the real birth rate of around 12 births per women. While the birth rate is way off, the prediction did show improvement as there was
+a decrease in Birth Rate, an indication of quality of life.</p>
+  
+![image](https://user-images.githubusercontent.com/48994987/218220580-eaefaa59-5984-4a6d-9fef-ba5d58da8810.png)
   
 <h5 align="center">Urbanization Rate</h5>
   
 <p>As time went on, the US was more urban as a country. This could be a possible reason for why birth rates didn't stay the same for the most part, and the general
 trend was a decrease. Also, urbanization is included because urbanization usually means that lower birth rates as people care more about making money than passing
 on their farm, as more money is needed. Also, rapid urbanization could mean a civil conflict, so I wanted to see if there was a rapid rise in urbanization that I
-could possibly use in this model in order to predict unstable times.</p>
+could possibly use in this model in order to predict unstable times. However, as there is no sudden increase, there isn't really anything I can use it for. For
+next prediction, I am not going to use urbanization rate.</p>
 
 <h5 align="center">Sources</h5>
 
