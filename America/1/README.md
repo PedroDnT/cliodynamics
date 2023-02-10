@@ -62,7 +62,8 @@ keep the economy afloat. Who knows, we might see the "Panic of 2025" The economy
 gets harder to keep our modern economy going. Like one railroad company started the Panic in 1873, a large tech company(maybe Apple?) could start the "Panic of
 2025". Or maybe we are in the Panic of 1873 right now(it lasted for around 6 years in US by the way). But whatever we will face, I can tell you that we will come out
 of this strong, like how America's navy came out of the 1890s as a rising star, eventually giving the Spanish a beating on Cuba and the Philippines(we do the same
-to China maybe?).</p>
+to China maybe?). (NOTE: REPEATING CYCLES ARE A PRETTY TERRIBLE WAY OF PREDICTING THE FUTURE, THEY DO NOT ACCOUNT FOR FACTORS THAT ARE PRESENT AT THE TIME FOR
+SAID EVENT TO HAPPEN.)</p>
 
 <a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">
 Last Time's Prediction(Turned into Alternate History)</a>
