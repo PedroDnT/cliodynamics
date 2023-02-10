@@ -87,6 +87,20 @@ its primary needs, America could become protectionist in the future, and maybe f
 populations to do so anyway from around the world). However for now, just know that tariffs could be coming if what I said in the immigration section
 turns out to be true(the fall of free trade happens when there appears to be a threat in the stability of the world).</p>
 
+<h5 align="center">Birth Rate</h5>
+  
+<p>I have stated that birth rates are an indication of quality of life. However, observing the trend better, I can see that birth rates constantly decline 
+except only during the "good times"(1820s&1950s/60s in this model). So, for subsequent trials, I am thinking of using a trick called detrending, which is 
+where one takes the trend line of data points, and now, the dependent variable is a resudual plot of the original function. This will better account for the
+trend, as you are taking the trend out of the picture, which can mess up a long term vision of the data.</p>
+  
+<h5 align="center">Urbanization Rate</h5>
+  
+<p>As time went on, the US was more urban as a country. This could be a possible reason for why birth rates didn't stay the same for the most part, and the general
+trend was a decrease. Also, urbanization is included because urbanization usually means that lower birth rates as people care more about making money than passing
+on their farm, as more money is needed. Also, rapid urbanization could mean a civil conflict, so I wanted to see if there was a rapid rise in urbanization that I
+could possibly use in this model in order to predict unstable times.</p>
+
 <h5 align="center">Sources</h5>
 
 <a href="https://www.cdc.gov/nchs/data/statab/natfinal2003.annvol1_01.pdf">Birth Rate from 1909 to 1970</a>
