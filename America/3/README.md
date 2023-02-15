@@ -6,3 +6,4 @@
 it could become official.). As we all know today, America is one of the many extremely polarized countries, and according to my model, there is more
 polarization today than there was during the Civil War. The late 1910s were the era of the most polarization in US history(it may not be on the dot, but its
 close).</p>
+<a href="https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States">US History(in terms of riots)</a>
