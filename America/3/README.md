@@ -26,3 +26,35 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 <a href="https://en.wikipedia.org/wiki/2018%E2%80%932019_United_States_federal_government_shutdown">Government Shutdown 2018-19</a>
 
 <a href="https://www.brookings.edu/2023/01/25/how-worried-should-we-be-if-the-debt-ceiling-isnt-lifted/">2023 Government Debt Ceiling</a>
+
+<h3 align="center">Sources</h3>
+
+<a href="https://www2.census.gov/library/publications/decennial/1820/1820a-02.pdf">1820 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1830/1830b.pdf">1830 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-02.pdf">1850 Census(1)</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1850/1850a/1850a-06.pdf">1850 Census(2)</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1860/population/1860a-02.pdf">1860 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1870/population/1870a-28.pdf">1870 Census(1)</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1870/vital-statistics/1870b-31.pdf">1870 Census(2)</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-07.pdf">1880 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1900/volume-1/volume-1-p3.pdf">1900 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p4.pdf">1910 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch01.pdf">1920 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch10.pdf">1930 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1940/population-volume-2/33973538v2p1ch2.pdf">1940 Census</a>
+
+<a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/21983999v2p1ch3.pdf">1950 Census</a>
+
+<a href="https://www2.census.gov/prod2/statcomp/documents/1961-02.pdf">1960 Census</a>
