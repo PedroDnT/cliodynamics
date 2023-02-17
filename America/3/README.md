@@ -58,3 +58,7 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/21983999v2p1ch3.pdf">1950 Census</a>
 
 <a href="https://www2.census.gov/prod2/statcomp/documents/1961-02.pdf">1960 Census</a>
+
+<a href="https://www.cdc.gov/nchs/data/statab/natfinal2003.annvol1_01.pdf">Birth Rate from 1909 to 2003</a>
+
+<a href="https://www.migrationpolicy.org/programs/data-hub/charts/immigrant-population-over-time">US Foreign Born Percentage from 1970 to 2020</a>
